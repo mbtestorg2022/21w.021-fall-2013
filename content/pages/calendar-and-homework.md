@@ -311,7 +311,7 @@ Read and post responses to:
 *   Sanneman, Lindsay. "[Shifting Balance: The Elimination of MIT's Varsity Women's Gymnastics Program](http://cmsw.mit.edu/angles/2012/?page_id=17)," _Angles_, 2012.
 *   Watson, Sterling. ["The Brass Rat: MIT's Nonstandard Technology Ring](http://cmsw.mit.edu/angles/2012/?page_id=12)," _Angles_, 2012.
 *   Ji, Xunjie. "[1927](http://mitangles.wordpress.com/li/)," _Angles_, 2011.
-*   Bassett, Ross. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["MIT-Trained Swadeshis: MIT and Indian Nationalism, 1880–1947." (PDF)](http://www.archives.godrej.com/assets/pdf/2009_bassett.mitswadeshi.pdf) _Osiris_ 24 (2009): 212–30.
+*   Bassett, Ross. ["MIT-Trained Swadeshis: MIT and Indian Nationalism, 1880–1947." (PDF)](http://www.archives.godrej.com/assets/pdf/2009_bassett.mitswadeshi.pdf) _Osiris_ 24 (2009): 212–30.
 *   Galchen, Rivka. "[Disaster Aversion: The Quest to Control Hurricanes](http://harpers.org/archive/2009/10/disaster-aversion/)." _Harper's_, October 2009.
 
 Work on your "On The Road" revisions.
