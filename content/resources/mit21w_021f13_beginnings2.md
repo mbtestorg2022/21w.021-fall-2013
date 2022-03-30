@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/85bd25584fca27472c11fa94d6694e54_MIT21W_021F13_Beginnings2.pdf
 file_type: application/pdf
+parent_uid: 06009a5f-afe4-71db-51c4-38bdd5366532
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: Assignment 6 - One Writer''s Beginnings, II'
 uid: 85bd2558-4fca-2747-2c11-fa94d6694e54

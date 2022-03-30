@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/72b6b93bb5c227726540288cd01d73eb_MIT21W_021F13_Midnight.pdf
 file_type: application/pdf
+parent_uid: 0b960911-b4ca-6f33-a7ee-ecd880add8ee
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: MIT Stories: Midnight P-Setter'
 uid: 72b6b93b-b5c2-2772-6540-288cd01d73eb
